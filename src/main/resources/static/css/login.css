@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+.top { margin-top: 5px; }
+.bottom { margin-bottom: 5px; }
+.font6{font-family:"微软雅黑";font-size:6px;color:#454545}
+.font14{font-family:"微软雅黑";font-size:14px;}
+.block { padding: 0px;}
+.font30{font-family:"微软雅黑";font-size:30px;color:#4dabca;}
+.height70{line-height:70px; }
+.fontbook20{font-family:"微软雅黑";font-size:20px;}
+.fontbook18{font-family:"宋体";font-size:18px;}
+.fontbook16{font-family:"宋体";font-size:16px;}
+.fontbook14{font-family:"宋体";font-size:14px;}
+.height35{line-height:35px; }
+.height10{line-height:12px; }
+.height8{line-height:8px; }
+.left{margin-left:15px;}
+.font7{font-family:"微软雅黑";font-size:14px;color:#4dabca;}
+.hide{display:none;}
+.show{display:block;}
+.errorfont{font-family:"宋体";font-size:14px;color:#FF4500}
+.truefont{font-family:"宋体";font-size:14px;color:#32CD32}
